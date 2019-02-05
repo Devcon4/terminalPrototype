@@ -1,0 +1,18 @@
+{
+  "name": "terminalprototype",
+  "version": "0.0.1",
+  "description": "A prototype ANTLR grammer runner",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./app.ts"
+  },
+  "author": "Devcon (Devyn Cyphers)",
+  "license": "MIT",
+  "devDependencies": {
+    "antlr4ts": "^0.5.0-alpha.2",
+    "antlr4ts-cli": "^0.5.0-alpha.2",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.1"
+  }
+}

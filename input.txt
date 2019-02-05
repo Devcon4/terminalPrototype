@@ -1,0 +1,6 @@
+PUT     x1      5       // Set Registries.
+PUT     x2      10
+ADD     x1      2       // Add.
+MUL     x2      x1      // Multiply some stuff.
+DIV     x2      2
+MOD     x1      4

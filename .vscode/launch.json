@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "name": "Proto debug",
+            "type": "antlr-debug",
+            "request": "launch",
+            "input": "input.txt",
+            "grammar": "Proto.g4",
+            "startRule": "commands",
+            "trace": true,
+            "printParseTree": true,
+            "visualParseTree": true
+        }
+    ]
+}

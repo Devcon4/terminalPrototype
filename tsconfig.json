@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "experimentalDecorators": true
+    }
+}
